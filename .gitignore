@@ -1,0 +1,13 @@
+.settings
+.project
+.classpath
+target
+.springBeans
+logs
+dubbo.cache
+dubbo.cache.lock
+output
+*.iml
+.idea/
+.prefs
+*.jar
